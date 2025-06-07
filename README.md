@@ -43,6 +43,8 @@ pip install tabulate colorama
 ## How It Works (Or Pretends To)
 
 Tasks are saved as JSON. When you quit, they persist. When you return, they haunt you.
+![image](https://github.com/user-attachments/assets/75a93fd0-6dc8-42d9-979e-856252cbc2ec)
+
 
 ### Task Schema (A Glorified Dictionary)
 
