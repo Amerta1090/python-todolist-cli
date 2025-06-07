@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Belajar dasar Python",
+        "description": "Pelajari syntax dasar seperti variabel, tipe data, dan operasi aritmatika.",
+        "status": "Selesai",
+        "priority": "Sedang",
+        "deadline": "2025-06-07",
+        "estimasi_waktu": 30,
+        "created_at": "2025-06-07 10:00:00"
+    },
+    {
+        "id": 2,
+        "title": "Membuat fungsi Python",
+        "description": "Buat beberapa fungsi dengan parameter dan return value.",
+        "status": "Belum Selesai",
+        "priority": "Rendah",
+        "deadline": "2025-06-07",
+        "estimasi_waktu": 45,
+        "created_at": "2025-06-07 10:10:00"
+    },
+    {
+        "id": 3,
+        "title": "Belajar list dan dictionary",
+        "description": "Manipulasi data menggunakan struktur data Python.",
+        "status": "Selesai",
+        "priority": "Sedang",
+        "deadline": null,
+        "estimasi_waktu": 60,
+        "created_at": "2025-06-07 10:20:00"
+    },
+    {
+        "id": 4,
+        "title": "Membuat program sederhana",
+        "description": "Gunakan kondisi dan perulangan untuk membuat mini-aplikasi.",
+        "status": "Belum Selesai",
+        "priority": "Rendah",
+        "deadline": null,
+        "estimasi_waktu": 45,
+        "created_at": "2025-06-07 10:30:00"
+    },
+    {
+        "id": 5,
+        "title": "Debugging dan testing",
+        "description": "Pelajari cara membaca pesan error dan menggunakan print/debug tools.",
+        "status": "Selesai",
+        "priority": "Sedang",
+        "deadline": null,
+        "estimasi_waktu": 60,
+        "created_at": "2025-06-07 10:40:00"
+    },
+    {
+        "id": 6,
+        "title": "Mengoding",
+        "description": "belajar koding",
+        "status": "Belum Selesai",
+        "priority": "Tinggi",
+        "deadline": "2025-06-07",
+        "estimasi_waktu": 60,
+        "created_at": "2025-06-07T14:11:46.899113"
+    }
+]
