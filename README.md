@@ -16,11 +16,11 @@ Tired of sleek GUIs and modern UX? Us too. Get back to your roots. Suffer produc
 ## 📁 File Structure (So Minimal It Hurts)
 ```
 
-ToDoList\
+ToDoList_Python
 │
 ├── main.py              # The main loop — all roads lead here
 ├── task.py              # The task blueprint. Godlike class.
-├── task\_manager.py     # Business logic pretending to be a manager
+├── task_manager.py     # Business logic pretending to be a manager
 ├── utils.py             # Functions you won’t remember writing
 ├── ui.py                # yes....UI
 ├── todolist.json        # Your precious digital post-its
